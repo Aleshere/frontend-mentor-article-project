@@ -1,3 +1,30 @@
+
+# Frontend Mentor Exercise
+
+# What I have learned building this
+
+> Attention to details   
+> Flexbox and Grid  
+> Media Queries    
+> Pseudo Elements    
+> Root variables
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## About
+
+* This was a practical exercise where I was asked to replicate a project as identical as possible to the original. mainly CSS
+* Project status: working
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+# And here is the full project walkthrough 
+
 # Frontend Mentor - Article preview component
 
 ![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)
